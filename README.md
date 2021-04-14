@@ -1,6 +1,6 @@
 # Invisible Cloak
 
-Invisible cloak is a fun application which can now fulfil your childhood fantasy of using Harry Potter invisibility cloak. This code turns a red colour cloth into an invisibility cloak.
+The invisible cloak is a fun application that can now fulfill your childhood fantasy of using Harry Potter invisibility cloak. This code turns a red color cloth into an invisibility cloak.
 
 **Setup/Requirements**: 
 
